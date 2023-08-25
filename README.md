@@ -2,9 +2,9 @@
 
 ## Overview
 
-Welcome to my Achievement 6 project for CareerFoundry's data analytics course. This repository showcases my journey through an advanced analytics project focused on Electric Vehicles (EV) and Electric Vehicle Charging Stations (EVCS) in Washington State.
+Welcome to my Achievement 6 project for CareerFoundry's data analytics course. This repository contains code and analysis for a project focused on Electric Vehicles (EV) and Electric Vehicle Charging Stations (EVCS) in Washington State.
 
-The primary goal of this project was to explore the relationship between EV adoption and the growth of EVCS in different counties. While the main focus is on this analysis, it's important to note that some of the code and steps shared here may not directly relate to the core analysis project. This repository also served as a platform for me to practice my analytics skills and explore into machine learning techniques.
+The primary goal of this project was to explore the relationship between EV adoption and the growth of EVCS in different counties. Additionaly this project also served as a platform for me to practice my analytics skills and explore machine learning techniques.
 
 ## Data
 
